@@ -1,7 +1,7 @@
-# Project 3
 #Author: Gabriel Venegas
+#Github:GVenegas1
 #Date: Jan 21,2026
-#This file contains classes that represent movies,
+#Description: This file contains classes that represent movies,
 #streaming services, and a guide that tracks which
 #services are streaming which movies.
 
